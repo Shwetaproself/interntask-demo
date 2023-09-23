@@ -1,4 +1,4 @@
 # interntask-demo
-This is my first repositor
+This is my first repository
 </br>
 Author - Bodkhe Shwetal
